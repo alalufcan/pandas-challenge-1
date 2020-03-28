@@ -1,8 +1,8 @@
 # pandas-challenge
 Pandas Challenge
 
-# Author
+## Author
 Omotoyosi Odele
 
-# Description
+## Description
 Exploring pandas and its capabilities
