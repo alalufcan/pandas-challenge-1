@@ -1,2 +1,8 @@
 # pandas-challenge
-Panda's Challenge
+Pandas Challenge
+
+# Author
+Omotoyosi Odele
+
+# Description
+Exploring pandas and its capabilities
